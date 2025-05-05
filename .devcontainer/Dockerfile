@@ -7,5 +7,6 @@ RUN \
     python3 \
     python3-pip \
     python3-setuptools \
+    openssh-client \
     && \
     sudo rm -rf /var/lib/apt/lists/*
