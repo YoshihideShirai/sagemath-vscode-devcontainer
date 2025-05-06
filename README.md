@@ -1,22 +1,22 @@
-# SageMath for vscode dev container
+# SageMath for VSCode Dev Container
 
-<p align="center">
-  <a href="README.md">English</a> | <a href="README.ja.md">日本語</a>
-</p>
+## English(./README.md) | [日本語](./README.ja.md)
 
-## Requirement
+### Requirement
 
-- vscode
-- vscode extensions
-  - devcontaner
-- docker
+* VSCode
+* VSCode Extensions
 
-## Preparation
+  * Dev Containers
+* Docker
 
-1. Open this repository on vscode.
-2. Kick [F1] and select "Dev Containers: Open Folder in Container...".
+### Preparation
 
-## Usage
+1. Open this repository in VSCode.
+2. Press `F1` and select `Dev Containers: Open Folder in Container...`.
 
-1. Create xxx.ipynb file.
-2. Open the ipynb file. Select Jupter Kernel, Sage Math 10.6.
+### Usage
+
+1. Create a file with the `.ipynb` extension (e.g., `example.ipynb`).
+2. Open the `.ipynb` file.
+3. Select the Jupyter Kernel: `SageMath 10.6`.

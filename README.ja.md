@@ -1,24 +1,21 @@
-# SageMath for vscode dev container
+# SageMath for VSCode Dev Container
 
-<p align="center">
-  <a href="README.md">English</a> | <a href="README.ja.md">日本語</a>
-</p>
+## English(./README.md) | [日本語](./README.ja.md)
 
-## 動作環境
+### Requirements
 
-- vscode
-- vscode拡張機能
-  - devcontaner
-- docker
+* Visual Studio Code (VSCode)
+* VSCode Extensions:
 
-## 環境の立ち上げ方
+  * Dev Containers
+* Docker
 
-1. vscodeで本リポジトリを開く
-2. [F1] で、"Dev Containers: Open Folder in Container..." を選択する。
+### Preparation
 
-## 使い方
+1. このリポジトリを VSCode で開きます。
+2. `F1` キーを押し、「Dev Containers: Open Folder in Container...」を選択します。
 
-### jupter notebook
+### Usage
 
-1. xxx.ipynb のファイルを作成する。
-2. ipynbをvscodeで開き、右上のカーネル選択で、"Jupter Kernel -> Sage Math 10.6"を選択する。
+1. 任意の `.ipynb` ファイルを作成します。
+2. 作成した `.ipynb` ファイルを開き、Jupyter カーネルとして SageMath 10.6 を選択します。
