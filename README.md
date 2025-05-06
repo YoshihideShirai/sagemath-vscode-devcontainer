@@ -2,6 +2,10 @@
 
 ## [English](./README.md) | [日本語](./README.ja.md)
 
+### Summary
+
+This repository provides configuration for setting up a SageMath writing environment (Jupyter Notebook/Sage) using VSCode's Dev Container feature.
+
 ### Requirement
 
 * VSCode

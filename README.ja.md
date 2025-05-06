@@ -2,6 +2,10 @@
 
 ## [English](./README.md) | [日本語](./README.ja.md)
 
+### Summary
+
+このリポジトリは、VSCodeのDev Container機能を利用して、SageMathの執筆環境(Jupyter Notebook/Sage)を構築するための設定を提供しています。
+
 ### Requirements
 
 * Visual Studio Code (VSCode)
