@@ -11,6 +11,11 @@
   - devcontaner
 - docker
 
+## Preparation
+
+1. Open this repository on vscode.
+2. Kick [F1] and select "Dev Containers: Open Folder in Container...".
+
 ## Usage
 
 1. Create xxx.ipynb file.
