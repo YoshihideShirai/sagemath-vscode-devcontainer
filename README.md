@@ -4,7 +4,8 @@
 
 ### Summary
 
-This repository provides configuration for setting up a SageMath writing environment (Jupyter Notebook/Sage) using VSCode's Dev Container feature.
+Setting up SageMath can be complex and time-consuming, especially when dealing with dependencies and kernel integration in Jupyter environments.
+This repository provides a ready-to-use configuration for quickly launching a SageMath development environment (Jupyter Notebook/Sage) using VSCode's Dev Container feature.
 
 ### Requirement
 
