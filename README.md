@@ -19,8 +19,8 @@ or
 
 ### Preparation
 
-1. Create a repository from `Use this template`.
-2. Open this repository in VSCode.
+1. Create a repository from this template repository of `Use this template`.
+2. Open this created repository in VSCode.
 3. Press `F1` and select `Dev Containers: Open Folder in Container...`.
 
 ### Usage
