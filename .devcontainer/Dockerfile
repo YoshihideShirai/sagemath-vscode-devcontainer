@@ -1,4 +1,4 @@
-FROM sagemath/sagemath:latest
+FROM sagemath/sagemath:10.6
 
 RUN \
     sudo apt-get update && \
