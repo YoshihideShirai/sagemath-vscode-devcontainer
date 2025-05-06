@@ -1,6 +1,2 @@
 {
-    "jupyter.kernels.excludePythonEnvironments": [
-        "/usr/bin/python3",
-        "/bin/python3"
-    ]
 }
