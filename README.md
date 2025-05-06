@@ -8,6 +8,10 @@ This repository provides configuration for setting up a SageMath writing environ
 
 ### Requirement
 
+* Github CodeSpaces
+
+or
+
 * VSCode
 * VSCode Extensions
   * Dev Containers
