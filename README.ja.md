@@ -10,7 +10,6 @@
 
 * Visual Studio Code (VSCode)
 * VSCode Extensions:
-
   * Dev Containers
 * Docker
 

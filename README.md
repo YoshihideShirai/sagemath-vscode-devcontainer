@@ -10,7 +10,6 @@ This repository provides configuration for setting up a SageMath writing environ
 
 * VSCode
 * VSCode Extensions
-
   * Dev Containers
 * Docker
 
