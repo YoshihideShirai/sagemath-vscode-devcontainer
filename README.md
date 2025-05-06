@@ -19,7 +19,7 @@ or
 
 ### Preparation
 
-1. Create a repository from this template repository of `Use this template`.
+1. Create a repository from `Use this template` in this template repository.
 2. Open this created repository in VSCode.
 3. Press `F1` and select `Dev Containers: Open Folder in Container...`.
 
