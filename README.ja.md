@@ -4,7 +4,8 @@
 
 ### 概要
 
-このリポジトリは、VSCodeのDev Container機能を利用して、SageMathの執筆環境(Jupyter Notebook/Sage)を構築するための設定を提供しています。
+SageMath の環境構築は、依存関係や Jupyter カーネルの設定などが複雑で、時間がかかることがあります。
+このリポジトリは、VSCode の Dev Container 機能を利用して、Jupyter Notebook 上で SageMath をすぐに使える開発環境を提供します。
 
 ### 動作環境
 
