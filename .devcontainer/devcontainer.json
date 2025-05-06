@@ -29,6 +29,7 @@
 				"ms-python.debugpy",
 				"ms-toolsai.jupyter",
 				"ms-azuretools.vscode-docker",
+				"donjayamanne.vscode-default-python-kernel",
 				"lov3.sagemath-enhanced",
 				"github.copilot",
 				"github.copilot-chat"
