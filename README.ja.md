@@ -19,7 +19,8 @@
 
 ### 環境構築
 
-1. このリポジトリを VSCode で開きます。
+1. このリポジトリの `Use this template` からリポジトリを作成する。
+1. 作成したリポジトリを VSCode で開きます。
 2. `F1` キーを押し、「Dev Containers: Open Folder in Container...」を選択します。
 
 ### 使い方
