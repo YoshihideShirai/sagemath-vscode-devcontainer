@@ -12,3 +12,6 @@
 - docker
 
 ## Usage
+
+1. Create xxx.ipynb file.
+2. Open the ipynb file. Select Jupter Kernel, Sage Math 10.6.
