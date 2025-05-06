@@ -1,7 +1,10 @@
 # SageMath for vscode dev container
 
 ## Requirement
+
 - vscode
-- vscode extension
+- vscode extensions
   - devcontaner
 - docker
+
+## Usage
